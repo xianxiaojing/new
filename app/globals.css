@@ -12,4 +12,5 @@
 @media(max-width:800px){.modal .case-cover{height:230px}.case-long{margin:45px -22px -30px}.resume-hero,.resume-block{padding:110px 24px 70px}.resume-hero h1{font-size:50px}.resume-intro{grid-template-columns:1fr;gap:30px}.resume-intro p{font-size:19px}.resume-list article{grid-template-columns:1fr;gap:15px}.cap-grid{grid-template-columns:1fr}.resume-nav>a:last-child{margin-left:auto}}
 .resume-contact{display:flex;flex-direction:column;gap:14px;align-items:flex-start}.resume-contact a{font-size:20px}.resume-contact span{color:#666;line-height:1.5}
 .resume-hero h1 em{display:inline-block;font-size:.46em;line-height:1.25;letter-spacing:-.035em;margin-top:24px}
+.resume-footer h2 small{font-size:.5em;font-weight:inherit;letter-spacing:-.035em}
 @media(max-width:800px){.resume-hero h1 em{font-size:.54em;margin-top:16px}}
